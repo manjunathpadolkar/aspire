@@ -157,7 +157,7 @@ export default {
 
             if(_.isObject(authUser) && _.has(authUser, 'username')){
               _this.$store.commit('setAuthUser', authUser)
-              _this.$router.push('/')
+              _this.$router.push('/vue-challenge')
             }
             else{
               _this.showErrorMessage('Invalid username or password')

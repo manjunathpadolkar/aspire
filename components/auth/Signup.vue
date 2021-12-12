@@ -198,7 +198,7 @@ export default {
               password: _this.password,
               confirm_password: _this.confirm_password
             })
-            _this.$router.push('/')
+            _this.$router.push('/vue-challenge')
 
             _this.registering = false
 

@@ -1,6 +1,7 @@
 <template>
   <div class="p-6">
-    <form>
+    <h1 class="text-3xl mb-10">Vue Challenge</h1>
+    <form class="border-dashed border-2 p-4">
       <div class="w-full">
         <input
           v-model="loanAmount"
@@ -21,7 +22,7 @@
       <div class="w-full">
         <select 
           placeholder="Loan term"
-          :style="{'padding': '10px', 'border-radius': '4px', 'display': 'block', 'width': '100%', 'margin-top': '16px'}"
+          :style="{'padding': '15px', 'border-radius': '4px', 'display': 'block', 'width': '100%', 'margin-top': '16px'}"
           v-model="loanTerm">
           <option value="2" class="block w-full">2 months term</option>
           <option value="4" class="block w-full">4 months term</option>
@@ -47,7 +48,7 @@
     </form>
 
     <div 
-      class="mt-6"
+      class="mt-12"
       v-for="(authUserLoan, key) in authUserLoans"
       :key="key">
       <div 
