@@ -1,0 +1,278 @@
+.aspire-logo {
+  fill: #01d167;
+}
+
+.login-pg-logo-a {
+  fill: rgba(255, 255, 255, 0);
+  opacity: 0.001;
+}
+
+.login-pg-logo-b {
+  fill: #0c365a;
+  opacity: 0.5;
+}
+
+.nav-li-home-1 {
+  fill: rgba(255, 255, 255, 0);
+}
+
+.nav-li-home-2 {
+  fill: #fff;
+}
+
+.nav-li-card-1 {
+  fill: rgba(255, 255, 255, 0);
+}
+
+.nav-li-card-2 {
+  fill: #01d167;
+}
+
+.nav-li-payments-1 {
+  fill: rgba(255, 255, 255, 0);
+}
+
+.nav-li-payments-2 {
+  fill: #fff;
+  stroke: #0c365a;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 0.25px;
+}
+
+.nav-li-credit-1 {
+  fill: rgba(255, 255, 255, 0);
+}
+.nav-li-credit-2 {
+  fill: #fff;
+}
+
+.nav-li-settings-1 {
+  fill: rgba(255, 255, 255, 0);
+  opacity: 0.001;
+}
+
+.nav-li-settings-2 {
+  fill: #fff;
+}
+
+.open-sans {
+  font-family: "Open Sans";
+}
+
+.add-icon {
+  fill: #fff;
+  stroke: #325baf;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 0.5px;
+}
+
+.eye-logo-a {
+  fill: none;
+}
+.eye-logo-b {
+  fill: #01d167;
+  stroke: rgba(0, 0, 0, 0);
+  stroke-miterlimit: 10;
+}
+.eye-logo-c {
+  fill: #01d167;
+}
+
+.aspire-logo-2 {
+  fill: #fff;
+}
+
+.icon-Freeze-card-a {
+  fill: #fff;
+}
+.icon-Freeze-card-b {
+  fill: #325baf;
+}
+.icon-Freeze-card-c {
+  fill: #9ac0fa;
+}
+.icon-Freeze-card-d {
+  clip-path: url(#a);
+}
+.icon-Freeze-card-e {
+  fill: #f1f3f4;
+}
+
+.icon-Set-spend-limit-a {
+  fill: #325baf;
+}
+
+.icon-Set-spend-limit-b {
+  fill: #9ac0fa;
+  stroke: #325baf;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 0.25px;
+}
+
+.icon-Set-spend-limit-c {
+  fill: #f1f3f4;
+}
+
+.gpay-logo-a {
+  fill: #fff;
+  stroke: #eee;
+}
+.gpay-logo-b {
+  fill: #4285f4;
+  fill-rule: evenodd;
+}
+.gpay-logo-c {
+  fill-rule: evenodd;
+  fill: #34a853;
+}
+.gpay-logo-d {
+  fill-rule: evenodd;
+  fill: #fbbc04;
+}
+.gpay-logo-e {
+  fill-rule: evenodd;
+  fill: #ea4335;
+}
+.gpay-logo-f {
+  stroke: none;
+}
+.gpay-logo-g {
+  fill: none;
+}
+
+.replace-card-logo-a {
+  fill: #325baf;
+}
+
+.replace-card-logo-b {
+  fill: #f1f3f4;
+  stroke: #f1f3f4;
+  stroke-linecap: square;
+  stroke-width: 0.6px;
+}
+
+.replace-card-logo-c {
+  fill: #9ac0fa;
+  stroke: #9ac0fa;
+  stroke-linecap: square;
+  stroke-width: 0.6px;
+}
+
+.Cancel-card-logo-a {
+  fill: #325baf;
+}
+
+.Cancel-card-logo-b {
+  fill: #9ac0fa;
+}
+
+.Cancel-card-logo-c {
+  fill: #f1f3f4;
+}
+
+.card-details-logo-a {
+  fill: rgba(255, 255, 255, 0);
+}
+
+.card-details-logo-b {
+  fill: rgba(50, 91, 175, 0.15);
+}
+
+.card-details-logo-c {
+  fill: #325baf;
+}
+
+.card-details-logo-d {
+  fill: #23cefd;
+}
+
+.arrow-up-down-logo-a {
+  opacity: 0.15;
+}
+
+.arrow-up-down-logo-b {
+  fill: #325baf;
+}
+
+.recent-trnsctn-logo-a {
+  fill: rgba(255, 255, 255, 0);
+}
+.recent-trnsctn-logo-b {
+  fill: #325baf;
+  opacity: 0.15;
+}
+.recent-trnsctn-logo-c {
+  fill: #325baf;
+}
+.recent-trnsctn-logo-d {
+  fill: #23cefd;
+}
+
+.file-storage-a {
+  fill: #009dff;
+}
+
+.business-and-finance {
+  fill: #fff;
+}
+
+.arrow-next {
+  fill: #ddd;
+}
+
+.footer-logo-a {
+  fill: #ddd;
+}
+
+.footer-pay-logo {
+  fill: #01d167;
+}
+
+.footer-payment-logo-a {
+  fill: rgba(255, 255, 255, 0);
+}
+
+.footer-payment-logo-b {
+  fill: #ddd;
+}
+
+.footer-credit-logo-a {
+  fill: rgba(255, 255, 255, 0);
+}
+
+.footer-credit-logo-b {
+  fill: #ddd;
+  stroke: rgba(0, 0, 0, 0);
+  stroke-miterlimit: 10;
+}
+
+.footer-profile-logo-a {
+  fill: rgba(255, 255, 255, 0);
+  opacity: 0.001;
+}
+.footer-profile-logo-b {
+  fill: #ddd;
+}
+
+.add-icon {
+  fill: #23cefd;
+  stroke: #325baf;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 0.5px;
+}
+
+.add-icon-2 {
+  fill: #fff;
+  stroke: #325baf;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 0.5px;
+}
+
+.white {
+  background-color: #325baf;
+}
